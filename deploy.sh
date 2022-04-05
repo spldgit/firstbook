@@ -1,3 +1,3 @@
-this is updated for revert
+this is updated
 this is a deploy.sh file
 
